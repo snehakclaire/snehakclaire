@@ -1,12 +1,10 @@
 ### Hey there, welcome to my GitHub space!
 
-I'm a **AI/ML Engineer** working on applied ML systems at the intersection of data, models, infrastructure, and real users. I also happen to be an alumnus of **[Boston University](https://www.bu.edu/)** and **[BITS Pilani](https://www.bits-pilani.ac.in/pilani/)**, where I built a strong foundation in systems, data, and applied ML.
+I'm an **AI/ML Engineer** working on applied ML systems at the intersection of data, models, infrastructure, and real users. I also happen to be an alumnus of **[Boston University](https://www.bu.edu/)** and **[BITS Pilani](https://www.bits-pilani.ac.in/pilani/)**, where I built a strong foundation in systems, data, and applied ML.
 
-My work spans **LLMs, prediction modeling, analytics, and MLOps**, with a strong focus on building systems that are reliable, observable, and actually usable in production.
+My work spans **LLMs, MLOps supervised, semi-supervised, and unsupervised modeling, and analytics**, with a strong focus on building systems that are reliable, observable, and actually usable in production.
 
 I enjoy problems where product thinking, data, and engineering meet.
-
----
 
 #### What I’m generally excited about
 
@@ -21,7 +19,7 @@ If you’re into similar problems, feel free to reach out via
 
 ---
 
-### Tech I usually use
+### 🛠 My Tech Stack:
 
 | Category | Technologies |
 |--------|--------------|
