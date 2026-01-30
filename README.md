@@ -2,11 +2,9 @@
 
 I'm an **AI/ML Engineer** working on applied ML systems at the intersection of data, models, infrastructure, and real users. I also happen to be an alumnus of **[Boston University](https://www.bu.edu/)** and **[BITS Pilani](https://www.bits-pilani.ac.in/pilani/)**, where I built a strong foundation in systems, data, and applied ML.
 
-My work spans **LLMs, MLOps supervised, semi-supervised, and unsupervised modeling, and analytics**, with a strong focus on building systems that are reliable, observable, and actually usable in production.
+My work spans **LLMs, MLOps supervised, semi-supervised, and unsupervised modeling, and analytics**, with a strong focus on building systems that are reliable, observable, and actually usable in production. I enjoy problems where product thinking, data, and engineering meet!
 
-I enjoy problems where product thinking, data, and engineering meet.
-
-#### What I’m generally excited about
+#### What I’m generally excited about:
 
 - LLM systems and RAG pipelines
 - Evaluation, reliability, and monitoring for ML models
@@ -15,7 +13,7 @@ I enjoy problems where product thinking, data, and engineering meet.
 - Turning ambiguous workflows into clear products
 
 If you’re into similar problems, feel free to reach out via  
-[LinkedIn](https://www.linkedin.com/in/sneha-khandelwal-006715144/) · [Email](snehakclaire@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sneha-khandelwal-006715144/) · [Email](mailto:snehakclaire@gmail.com)
 
 ---
 
